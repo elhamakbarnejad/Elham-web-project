@@ -7,7 +7,7 @@
 نوار جستجوی تعاملی با نمایش در "wrapper"
 تغیر رنگ و استایل با hover کردن.
 پیش نمایش:
-![alt text](image.png)
+![alt text](./public/pictures/demo-pic.png)
 نحوه اجرا:
 فایلها را دانلود کن
 آدرس فایل:
